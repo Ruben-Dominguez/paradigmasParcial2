@@ -1,4 +1,4 @@
-# parcial2
+# Parcial2
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Hosting at:
+firebase [git@github.com:Ruben-Dominguez/paradigmasParcial2.git]
