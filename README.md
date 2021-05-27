@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Hosting at:
-firebase [git@github.com:Ruben-Dominguez/paradigmasParcial2.git]
+firebase [https://paradigmasparcial2.web.app/]
